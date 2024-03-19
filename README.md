@@ -8,8 +8,8 @@ cra-new-app
 ```
 ## 使用
 ```
-1. cra-new-app -V 查看是否安装成功
-2. cra-new-app create myapp & cd myapp
+1. npx cra-new-app -V 查看是否安装成功
+2. npx cra-new-app create myapp & cd myapp
 3. yarn vite
 4. 开始愉快编程
 ```
